@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    color: black;
+}
+#menu ul{
+    background: black;
+    list-style-type: none;
+    text-align: center;
+    max-height: 40px;
+
+}
+#menu li{
+    color: white;
+    display:inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px;
+}
+img{
+    width: 100%;
+    margin-right: auto;
+    margin-left:auto;
+    display: block;
+}
+.than{
+    margin-left: 10cm;
+    margin-right: 23cm;
+}
